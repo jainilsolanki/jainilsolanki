@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Jainil Solanki</h1>
-<h3 align="center">Passionate Frontend Engineer crafting delightful user experiences through clean code, with expertise in responsive web design and modern JavaScript frameworks.</h3>
+<h3 align="center">Passionate Full-Stack Engineer dedicated to crafting seamless and scalable user experiences through clean, maintainable code. Experienced in managing and delivering complex features across multi-application ecosystems for both web and mobile platforms. Skilled in collaborating with cross-functional teams to build modular, high-performance applications and overseeing the full development lifecycle from feature implementation to deployment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainilsolanki&label=Profile%20views&color=0e75b6&style=flat" alt="jainilsolanki" /> </p>
 
