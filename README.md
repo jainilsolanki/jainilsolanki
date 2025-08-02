@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainilsolanki" alt="jainilsolanki" /></a> </p>
 
-- 🔭 I’m currently working at [WebOccult Technologies Pvt. Ltd.](https://weboccult.com)
+- 🔭 I’m currently working at [Script Assist U.K](https://scriptassist.co.uk)
 
 - 🌱 I’m currently learning **Node.JS**
 
-- 👨‍💻 All of my projects are available at [https://jainil-solanki.vercel.app](https://jainil-solanki.vercel.app)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://jainil-solanki.vercel.app)
 
-- 📝 I regularly write articles on [https://linkedin.com/in/jainil-solanki](https://linkedin.com/in/jainil-solanki)
+- 📝 I regularly write articles on [Linkedin](https://linkedin.com/in/jainil-solanki) & [Daily.dev](https://app.daily.dev/origamiburner)
 
 - 💬 Ask me about **React.JS, Next.JS, Front-End and M.E.R.N stack.**
 
 - 📫 How to reach me **jainilsolanki0704@gmail.com**
 
-- 📄 Know about my experiences [https://jainil-solanki.vercel.app/JAINIL%20SOLANKI.pdf](https://jainil-solanki.vercel.app/JAINIL%20SOLANKI.pdf)
+- 📄 Know about my experiences [Resume](https://rxresu.me/jainilsolanki0704/jainil-solanki-resume)
 
 - ⚡ Fun fact **Anime is not a cartoon**
 
