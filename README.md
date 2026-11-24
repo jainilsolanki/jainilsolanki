@@ -19,8 +19,6 @@
 
 - 📄 Know about my experiences [Resume](https://rxresu.me/jainilsolanki0704/jainil-solanki-resume)
 
-- ⚡ Fun fact **Anime is not a cartoon**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jainil-solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jainil-solanki" height="30" width="40" /></a>
