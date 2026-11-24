@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainilsolanki" alt="jainilsolanki" /></a> </p>
 
-- 🔭 I’m currently working at [Script Assist U.K](https://scriptassist.co.uk)
+- 🔭 I’m currently working at [Einfonets Technologies Pvt. Ltd.] (https://www.einfonets.com/)
 
 - 🌱 I’m currently learning **Node.JS**
 
